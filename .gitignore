@@ -101,5 +101,5 @@ ENV/
 .mypy_cache/
 
 # Pycharm
-pyen27/
+pyenv27/
 .idea
